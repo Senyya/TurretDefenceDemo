@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{15A1264E-0D47-70E1-7E6C-C871C500E4EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/TurretData.cs">
+    <Files>
+      <File FileName="Assets/Script/BuildManager.cs" Line="205" Column="1" />
+      <File FileName="Assets/Script/TurretData.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3495fe6a-3f58-4dc7-8d62-8694f1dd6f46" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
